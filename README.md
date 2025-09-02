@@ -1,10 +1,11 @@
 # automated-ph-balancing-ggs2025
 
-the project was made for compete in Bali International Science Fair 2025 where we (i mean, my student) won gold medal and 2025 International Science Project Competition where we won Silver medal, the instrument then refired by another group of student for competing in 2025 PIKIR Scientific Paper Competition where we ended up as a top 10 finalist.
+The project was originally built to compete in the Bali International Science Fair 2025 (Gold Medal) and the International Science Project Competition 2025 (Silver Medal). Later, the instrument was reused and refined by another group of students for the 2025 PIKIR Scientific Paper Competition, where we reached the Top 10 Finalists.
 
-If you get to this repository from the qr code that I tempel in the instrument, welcome. First thing you need to do is to pasang the sensor ph since the current instument have no sensor (aku meminjamnya dari orang lain), just follow the structural design that I upload in this repo.
+If you found this repository through the QR code attached to the instrument — welcome!
+The first thing you’ll need to do is install the pH sensor, since the current instrument does not include one (I borrowed it from someone else). Just follow the structural design files uploaded here in this repository.
 
+Many thanks to the students who participated in this project:
 
-many thanks to my student who participate in this project
-BISF + ISPC team: Kayla, Michelle, Adlyna, Cheryl, Victoria, and Kiyoko (joined only for ISPC)
-PIKIR Team : Alya, Clarissa, Lydia, and Jason
+BISF + ISPC Team: Kayla, Michelle, Adlyna, Cheryl, Victoria, and Kiyoko (joined only for ISPC)
+PIKIR Team: Alya, Clarissa, Lydia, and Jason
