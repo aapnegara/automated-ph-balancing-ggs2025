@@ -8,4 +8,5 @@ The first thing you’ll need to do is install the pH sensor, since the current 
 Many thanks to the students who participated in this project:
 
 BISF + ISPC Team: Kayla, Michelle, Adlyna, Cheryl, Victoria, and Kiyoko (joined only for ISPC)
+
 PIKIR Team: Alya, Clarissa, Lydia, and Jason
