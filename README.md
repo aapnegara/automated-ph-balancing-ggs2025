@@ -10,3 +10,5 @@ Many thanks to the students who participated in this project:
 BISF + ISPC Team: Kayla, Michelle, Adlyna, Cheryl, Victoria, and Kiyoko (joined only for ISPC)
 
 PIKIR Team: Alya, Clarissa, Lydia, and Jason
+
+WICE Team : Alya, Clarissa, Lydia, and new students that joined only for presentations (Brilliant, Vallian, and Keiko)
